@@ -21,6 +21,9 @@ Dieses Repository ist für Recruiter und potenzielle Arbeitgeber gedacht, um mei
 | Projekt | Beschreibung | Technologien | Demo / README |
 |--------|-------------|-------------|---------------|
 | **ERP-System (WPF + ADO.NET)** | Interne Desctop-Anwendung zur effizienten Verwaltung und Bearbeitung technischer Begriffe | C#, WPF, ADO.NET, MySQL | [Projekt-README](Current-Projects/ERP-WPF/README.md) |
+| **Smartstore6 Theme** | Anpassung und Erstellung von Shop-Themes | HTML, CSS, Sass, Smartstore6 | [Projekt-README](Current-Projects/Smartstore-Theme/README.md) |
+| **Full-Stack Web-App (MERN)** | Web-App mit React-Frontend und Node.js/Express-Backend | MongoDB, Express, React, Node.js | [Projekt-README](Current-Projects/MERN-App/README.md) |
+| **Angular Projekt** | Frontend-Projekt mit Komponenten, Routing und Services | Angular, TypeScript, HTML, CSS | [Projekt-README](Current-Projects/Angular-App/README.md) |
 
 ---
 
@@ -30,12 +33,9 @@ Diese Projekte sind älter oder zu Lernzwecken erstellt und demonstrieren meine 
 
 | Projekt | Beschreibung | Technologien | Status |
 |--------|-------------|-------------|--------|
-| **Smartstore6 Theme** | Anpassung und Erstellung von Shop-Themes | HTML, CSS, Sass, Smartstore6 | [Projekt-README](Old-and-Learning-Projects/
-/Smartstore-Theme/README.md) |
-| **Full-Stack Web-App (MERN)** | Web-App mit React-Frontend und Node.js/Express-Backend | MongoDB, Express, React, Node.js | [Projekt-README](Old-and-Learning-Projects/
-/MERN-App/README.md) |
-| **Angular Projekt** | Frontend-Projekt mit Komponenten, Routing und Services | Angular, TypeScript, HTML, CSS | [Projekt-README](Old-and-Learning-Projects/
-/Angular-App/README.md) |
+| **C# Konsolenanwendung** | Übung von C#-Syntax und Logik | C# | Abgeschlossen |
+| **Smartstore5 Theme** | Experimentelles Theme aus älterer Version | HTML, CSS, Smartstore5 | Abgeschlossen |
+| **JavaScript Experiment** | Übung moderner JavaScript-Features | JavaScript, HTML, CSS | Abgeschlossen |
 
 ---
 
